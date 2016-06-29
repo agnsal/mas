@@ -1,4 +1,4 @@
 # mas
 A DALI MAS example.
 
-A DALI MAS example with 5 intelligent agents.
+A DALI MAS example. It contains Ermes and other 4 simpler intelligent agents.
